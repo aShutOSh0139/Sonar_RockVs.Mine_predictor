@@ -16,8 +16,10 @@ The problem uses Logistic Regression to model the binary dependent  variable in 
 I got sonar data in .csv format from UCL Repository by Connectionist Bench.It has total of 60 feature columns and 1 label column and 208 rows of instances.
 
 #### WorkFlow:
-![aaa](https://github.com/aShutOSh0139/Sonar_RockVs.Mine_predictor/assets/111175990/53efd8ee-ab9e-4452-b180-879043f0a46f)
-![bbb](https://github.com/aShutOSh0139/Sonar_RockVs.Mine_predictor/assets/111175990/60733ec6-f7e0-4fcb-a2ff-3b49d7e048be)
+![aaa](https://github.com/aShutOSh0139/Sonar_RockVs.Mine_predictor/assets/111175990/5aefca54-e2dd-4534-ad20-893b61bf7c97)
+
+
+![bbb](https://github.com/aShutOSh0139/Sonar_RockVs.Mine_predictor/assets/111175990/1151e817-9475-42f3-a927-180150a57e2f)
 
 # Acknowledgements
 ---->[Sonar Rock vs Mine Prediction](https://youtu.be/fiz1ORTBGpY)<br>
